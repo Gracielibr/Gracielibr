@@ -12,6 +12,8 @@ Sou Bacharel em Turismo, atualmente estou estudando Análise e Desenvolvimeto de
 
 **Habilidades**
 
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java&logoColor=red)
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git&logoColor=red)
+[![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java&logoColor=red)](https://www.java.com/pt-BR/)
+[![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git&logoColor=red)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Gracielibr)
+
+
